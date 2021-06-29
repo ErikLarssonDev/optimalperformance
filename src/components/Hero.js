@@ -53,7 +53,7 @@ const Wrapper = styled.section`
    width: 100vw;
  }
  .hero-text {
-   left: 12%;
+   left: 15%;
  }
   .hero-btn {
       padding: 0.5rem 0,75rem;
