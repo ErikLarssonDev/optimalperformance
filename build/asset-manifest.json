@@ -1,29 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.0db4fee2.chunk.css",
-    "main.js": "/static/js/main.414afebb.chunk.js",
-    "main.js.map": "/static/js/main.414afebb.chunk.js.map",
+    "main.js": "/static/js/main.dfd35503.chunk.js",
+    "main.js.map": "/static/js/main.dfd35503.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.560cc5da.js",
     "runtime-main.js.map": "/static/js/runtime-main.560cc5da.js.map",
-    "static/js/2.90b6ca7a.chunk.js": "/static/js/2.90b6ca7a.chunk.js",
-    "static/js/2.90b6ca7a.chunk.js.map": "/static/js/2.90b6ca7a.chunk.js.map",
+    "static/js/2.01a7e5d8.chunk.js": "/static/js/2.01a7e5d8.chunk.js",
+    "static/js/2.01a7e5d8.chunk.js.map": "/static/js/2.01a7e5d8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.0db4fee2.chunk.css.map": "/static/css/main.0db4fee2.chunk.css.map",
-    "static/js/2.90b6ca7a.chunk.js.LICENSE.txt": "/static/js/2.90b6ca7a.chunk.js.LICENSE.txt",
-    "static/media/BeginnerProgram.26e24178.png": "/static/media/BeginnerProgram.26e24178.png",
+    "static/js/2.01a7e5d8.chunk.js.LICENSE.txt": "/static/js/2.01a7e5d8.chunk.js.LICENSE.txt",
+    "static/media/10.4dd5566a.png": "/static/media/10.4dd5566a.png",
+    "static/media/11.45cc5661.png": "/static/media/11.45cc5661.png",
+    "static/media/3.f9b7155f.png": "/static/media/3.f9b7155f.png",
+    "static/media/4.a804d58b.png": "/static/media/4.a804d58b.png",
+    "static/media/5.f17d3433.png": "/static/media/5.f17d3433.png",
+    "static/media/6.4b1560fd.png": "/static/media/6.4b1560fd.png",
+    "static/media/7.6b833691.png": "/static/media/7.6b833691.png",
+    "static/media/8.5a619dd5.png": "/static/media/8.5a619dd5.png",
+    "static/media/BeginnerProgram.767a4458.png": "/static/media/BeginnerProgram.767a4458.png",
+    "static/media/Contact.0c54616d.JPEG": "/static/media/Contact.0c54616d.JPEG",
     "static/media/Filip_Flink.6cdc0c2a.JPG": "/static/media/Filip_Flink.6cdc0c2a.JPG",
-    "static/media/IntermediateProgram.e463ce10.png": "/static/media/IntermediateProgram.e463ce10.png",
     "static/media/Logo_White.d7babb0a.png": "/static/media/Logo_White.d7babb0a.png",
-    "static/media/OP_Logo.f066a3ae.png": "/static/media/OP_Logo.f066a3ae.png",
-    "static/media/SeminarSlide.26386cf2.png": "/static/media/SeminarSlide.26386cf2.png",
-    "static/media/SquatProgram.70fa8b6a.png": "/static/media/SquatProgram.70fa8b6a.png",
     "static/media/about.e725992d.JPG": "/static/media/about.e725992d.JPG",
-    "static/media/home-hero.e3393f01.png": "/static/media/home-hero.e3393f01.png"
+    "static/media/home-hero.bcf24a92.png": "/static/media/home-hero.bcf24a92.png"
   },
   "entrypoints": [
     "static/js/runtime-main.560cc5da.js",
-    "static/js/2.90b6ca7a.chunk.js",
+    "static/js/2.01a7e5d8.chunk.js",
     "static/css/main.0db4fee2.chunk.css",
-    "static/js/main.414afebb.chunk.js"
+    "static/js/main.dfd35503.chunk.js"
   ]
 }

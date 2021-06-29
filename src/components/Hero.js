@@ -43,7 +43,7 @@ const Wrapper = styled.section`
   text-align: center;
   position: absolute;
   top: 70%;
-  left: 15%;
+  left: 10%;
   transform: translate(-50%, -50%);
   color: white;
 }
