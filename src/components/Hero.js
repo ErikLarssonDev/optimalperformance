@@ -48,6 +48,31 @@ const Wrapper = styled.section`
   color: white;
 }
 
+ @media screen and (max-width: 750px) {
+    img{
+   width: 100vw;
+ }
+ .hero-text {
+   left: 12%;
+ }
+  .hero-btn {
+      padding: 0.5rem 0,75rem;
+      font-size: 0,5rem;
+    }
+    .btn {
+    padding: 0.375rem 0.75rem;
+  
+  
+  font-weight: 300;
+
+  font-size: 0.5rem;
+    }
+   }
+   }
+
+
+
+
   
 `
 
