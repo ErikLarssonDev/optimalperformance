@@ -27,7 +27,7 @@ const CoachingServices = () => {
               This option suits beginner, intermediate and advanced lifters that wants to get the most out of their training.
 </p>
             <p>
-              Price: 99kr/Week
+              Price: 99 SEK/Week
 </p>
             <ul>
               <li>
@@ -61,7 +61,7 @@ const CoachingServices = () => {
               This option is best suited for competative powerlifters who want the optimal training program.
 </p>
             <p>
-              Price: 999 SEK/Month
+              Price: 999 SEK/Month (599 SEK/Month for students)
             </p>
             <ul>
               <li>
