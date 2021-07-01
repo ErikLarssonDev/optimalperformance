@@ -2,9 +2,6 @@ import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import { promoSlides } from '../utils/constants'
 import { BsChevronRight, BsChevronLeft } from 'react-icons/bs'
-import { FaQuoteRight } from 'react-icons/fa'
-import { BsFillPersonCheckFill } from "react-icons/bs"
-
 
 const PromoSlides = () => {
 

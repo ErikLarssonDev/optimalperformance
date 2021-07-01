@@ -11,20 +11,12 @@ import CreatePost from './components/CreatePost'
 import PostDetail from './components/PostDetail'
 import {
   Home,
-  SingleProduct,
-  Cart,
-  Checkout,
   Error,
   About,
-  Products,
-  PrivateRoute,
-  AuthWrapper,
-  
 } from './pages'
 
 function App() {
   return (
-    <AuthWrapper>
       <Router>
         <Navbar />
         <Sidebar />
@@ -34,12 +26,6 @@ function App() {
           </Route>
           <Route exact path='/about'>
             <About />
-          </Route>
-          <Route exact path='/cart'>
-            <Cart />
-          </Route>
-          <Route exact path='/products'>
-            <Products />
           </Route>
           <Route exact path='/contact'>
             <ContactPage />
@@ -56,7 +42,6 @@ function App() {
           <Route exact path='/programs'>
             <ProgramsPage />
           </Route>
-          <Route exact path='/products/:id' children={<SingleProduct />} />
           <Route exact path='/blog'>
             <BlogPage />
           </Route>
@@ -65,16 +50,13 @@ function App() {
           
 
 
-          <PrivateRoute exact path='/checkout'>
-            <Checkout />
-          </PrivateRoute>
+          
           <Route path='*'>
             <Error />
           </Route>
         </Switch>
         <Footer />
       </Router>
-    </AuthWrapper>
   )
 }
 

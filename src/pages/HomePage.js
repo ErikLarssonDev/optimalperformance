@@ -1,5 +1,5 @@
 import React from 'react'
-import { FeaturedProducts, Hero, Services } from '../components'
+import { Hero, Services } from '../components'
 import TestimonialsSlider from '../components/TestimonialsSlider'
 import CoachingServices from '../components/CoachingServices'
 import FeaturedPrograms from '../components/FeaturedPrograms'
