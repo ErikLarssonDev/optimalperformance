@@ -47,10 +47,6 @@ function App() {
           </Route>
           <Route exact path="/post/:postid" component={PostDetail} />
           <Route exact path="/create-post" component={CreatePost} />
-          
-
-
-          
           <Route path='*'>
             <Error />
           </Route>
