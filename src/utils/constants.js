@@ -2,6 +2,7 @@ import React from 'react'
 import { GiCompass, GiDiamondHard, GiStabbedNote } from 'react-icons/gi'
 import { BsFillPersonCheckFill } from "react-icons/bs"
 import filipImg from '../assets/Filip_Flink.JPG'
+import amandaImg from '../assets/Amanda.JPG'
 import BeginnerProgramImg from '../assets/BeginnerProgram.png'
 import IndividualizedProgramImg from '../assets/Individualizedprogram.png'
 import Promo1 from '../assets/PromotionSlidesOP/5.png'
@@ -78,7 +79,7 @@ export const testimonials = [
   },
   {
     id: 2,
- 
+    img: amandaImg,
     name: 'Amanda Fors',
     text:
       '"Erik is an extremely knowledgeable coach with plenty of his own experience in the sport at an elite level. He takes the time to analyze and set up a program tailored to your specific needs. At the same time, he always takes into account your wishes to ensure that the approach is not only developing, but also fun on the way to the common goal. The programming is advanced and takes into account external factors for training and everyday life to work together. With Erik as a coach, anyone can go from beginner to athlete at the elite level as long as you have the will."',
