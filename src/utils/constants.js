@@ -81,7 +81,7 @@ export const testimonials = [
  
     name: 'Amanda Fors',
     text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      '"Erik is an extremely knowledgeable coach with plenty of his own experience in the sport at an elite level. He takes the time to analyze and set up a program tailored to your specific needs. At the same time, he always takes into account your wishes to ensure that the approach is not only developing, but also fun on the way to the common goal. The programming is advanced and takes into account external factors for training and everyday life to work together. With Erik as a coach, anyone can go from beginner to athlete at the elite level as long as you have the will."',
   },
   {
     id: 3,
@@ -96,6 +96,20 @@ export const testimonials = [
     name: 'Filip Flink',
     text:
     '"Erik is very meticulous and precise in his coaching, from training planning to the everyday. He listens and can discuss one thing and another to optimize and individualize the training approach. If you are looking for someone who has 100% control of all possible training and coaching variables, Erik is the right person you are looking for! ”'
+  },
+  {
+    id: 5,
+    
+    name: 'Astrid Edvardsson',
+    text:
+      '"Erik is someone who cares about you as an athlete. enjoys coaching and seeing progress! Adapts the schedule well to how you want it, both in the long and short term!!"',
+  },
+  {
+    id: 6,
+    
+    name: 'Tom Lingestad',
+    text:
+      '"As a coach Erik is very responsive and addresses the needs of the individual."',
   },
 ]
 

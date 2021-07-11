@@ -166,7 +166,7 @@ p {
   transition: var(--transition);
   text-align: center;
   margin-bottom: 0px;
-  height: 505px;
+  height: 650px;
 }
 .review:hover {
   box-shadow: var(--dark-shadow);
