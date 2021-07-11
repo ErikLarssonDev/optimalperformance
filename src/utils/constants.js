@@ -3,6 +3,7 @@ import { GiCompass, GiDiamondHard, GiStabbedNote } from 'react-icons/gi'
 import { BsFillPersonCheckFill } from "react-icons/bs"
 import filipImg from '../assets/Filip_Flink.JPG'
 import BeginnerProgramImg from '../assets/BeginnerProgram.png'
+import IndividualizedProgramImg from '../assets/Individualizedprogram.png'
 import Promo1 from '../assets/PromotionSlidesOP/5.png'
 import Promo2 from '../assets/PromotionSlidesOP/6.png'
 import Promo3 from '../assets/PromotionSlidesOP/7.png'
@@ -106,6 +107,14 @@ export const Programs = [
     price: 'Free',
     url: 'https://docs.google.com/spreadsheets/d/19Qx8Qh4RJ3MD_Ee8R0Sj7s22GhxrSQAvUE-yxaZMA8o/edit?usp=sharing',
     image: BeginnerProgramImg,
+  },
+  {
+    id: 2,
+    name: 'Individualized Program',
+    text: 'Individualized programs are built based on an extensive anlysis of your goals, needs and training background to create the best program for YOU. We start by analyzing your technique and needs before writing the program, we will also have a check-in when the program is finished to evaluate the program.',
+    price: '49 SEK/Week',
+    url: 'https://forms.gle/XE5NFZNg9GNiZBFN6',
+    image: IndividualizedProgramImg,
   },
   
 ]

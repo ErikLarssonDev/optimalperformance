@@ -17,41 +17,7 @@ const CoachingServices = () => {
         </div>
         <div className='services-center'>
 
-          <article className='service'>
-            <img src={IndividualizedProgram}></img>
-            <h4>Individualized training program</h4>
-            <p>
-              Individualized programs are built based on an extensive anlysis of your goals, needs and training background to create the best program for YOU. We start by analyzing your technique and needs before writing the program, we will also have a check-in when the program is finished to evaluate the program.
-</p>
-            <p>
-              This option suits beginner, intermediate and advanced lifters that wants to get the most out of their training.
-</p>
-            <p>
-              Price: 99 SEK/Week
-</p>
-            <ul>
-              <li>
-                <p>
-                  <RiCheckboxCircleLine /> Fully Individualized Program
-              </p>
-              </li>
-              <li>
-                <p>
-                  <RiCheckboxCircleLine /> Any lenght(Min. 6 weeks)
-              </p>
-              </li>
-              <li>
-                <p>
-                  <RiCheckboxCircleLine /> Check ins after 1st and last week
-              </p>
-              </li>
-            </ul>
-            <Link to='/contact' className='btn'>
-              Get Started
-      </Link>
-          </article>
-
-          <article className='service'>
+          <article className='service section-center' >
           <img src={AllAccess}></img>
             <h4>All access coaching</h4>
             <p>
@@ -61,7 +27,7 @@ const CoachingServices = () => {
               This option is best suited for competative powerlifters who want the optimal training program.
 </p>
             <p>
-              Price: 999 SEK/Month (599 SEK/Month for students)
+              Price: 699 SEK/Month (599 SEK/Month for students)
             </p>
             <ul>
               <li>
@@ -153,6 +119,7 @@ p {
   padding: 2.5rem 2rem;
   border-radius: var(--radius);
   margin-bottom: 2rem;
+  margin-top: 10px;
   
   p {
     padding: 1rem;

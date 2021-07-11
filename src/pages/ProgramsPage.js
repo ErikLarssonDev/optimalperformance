@@ -27,7 +27,7 @@ function ProgramsPage() {
                 <h4>{price}</h4> 
               <p className="item-text">{text}</p>
             </div>
-            <a className='btn' href={url} target="_blank">Download Program</a>
+            <a className='btn' href={url} target="_blank">Get Program</a>
           </article>
         );
       })}

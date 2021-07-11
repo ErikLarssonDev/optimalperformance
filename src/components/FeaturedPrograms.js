@@ -27,7 +27,7 @@ function FeaturedPrograms() {
                 <h4>{price}</h4>
             </div>
             </Link>
-            <a className='btn' href={url} target="_blank">Download Program</a>
+            <a className='btn' href={url} target="_blank">Get Program</a>
            
           </article>
         );
