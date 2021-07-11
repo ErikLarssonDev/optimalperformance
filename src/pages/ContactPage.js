@@ -32,7 +32,7 @@ const ContactPage = () => {
                 <div className='column'>
                     <div className='form-style-1'>
                         <img src={logo} alt='Optimal Performance' style={{ width: '100%', marginTop: '-130px', marginBottom: '-100px'}}></img>
-                        <p style={{marginBottom: '-30px'}}>Email: optimalperformance@gmail.com</p>
+                        <p style={{marginBottom: '-30px'}}>Email: erik.u.larsson1@gmail.com</p>
                     </div>
                 </div>
 
