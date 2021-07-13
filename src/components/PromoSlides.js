@@ -55,7 +55,7 @@ const PromoSlides = () => {
 const Wrapper = styled.section`
   min-height: 100vh;
   display: flex;
-  
+  justify-content: flex-start;
   place-items: center;
 }
 

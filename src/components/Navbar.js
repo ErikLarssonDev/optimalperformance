@@ -6,7 +6,6 @@ import { Link } from 'react-router-dom'
 import { links } from '../utils/constants'
 import { useProductsContext } from '../context/products_context'
 
-
 const Nav = () => {
   const { openSidebar } = useProductsContext()
   return (
