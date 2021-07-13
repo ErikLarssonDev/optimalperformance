@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import { promoSlides } from '../utils/constants'
 import { BsChevronRight, BsChevronLeft } from 'react-icons/bs'
+import { Link } from 'react-router-dom'
 
 const PromoSlides = () => {
 
@@ -47,21 +48,23 @@ const PromoSlides = () => {
               <button className='next-btn' onClick={nextPerson}>
                 <BsChevronRight />
               </button>
-          </div>  
+          </div>
+          <h4>Seminars and workshops</h4>
+      <p>Do you want me to visit your gym and give a lecture about technique, my training philosophy or hold a workshop to help you take your technique and training to the next level?</p>
+      <p>I recommend booking me for a half- or a full day for a combination of the theoretical and practical parts.</p>
+      <Link to='/contact' className='btn'>
+              Get Started
+      </Link>
     </Wrapper>
   )
 }
 
 const Wrapper = styled.section`
   min-height: 100vh;
-  display: flex;
-  justify-content: flex-start;
   place-items: center;
 }
 
-h4 {
-  color: var(--clr-primary-10);
-}
+
 
 p {
   margin-bottom: 0;

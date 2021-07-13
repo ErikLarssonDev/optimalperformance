@@ -56,12 +56,6 @@ const CoachingServices = () => {
 
       <article className='section-center service'>
         <PromoSlides/>
-      <h4>Seminars and workshops</h4>
-      <p>Do you want me to visit your gym and give a lecture about technique, my training philosophy or hold a workshop to help you take your technique and training to the next level?</p>
-      <p>I recommend booking me for a half- or a full day for a combination of the theoretical and practical parts.</p>
-      <Link to='/contact' className='btn'>
-              Get Started
-      </Link>
       </article>
     </Wrapper>
   )
