@@ -39,8 +39,7 @@ const PromoSlides = () => {
 
   return (
     <Wrapper>
-    {checkImg(index)}
-     
+    {checkImg(index)} 
           <div className='title'>
           <button className='prev-btn' onClick={prevPerson}>
                 <BsChevronLeft />
@@ -48,16 +47,15 @@ const PromoSlides = () => {
               <button className='next-btn' onClick={nextPerson}>
                 <BsChevronRight />
               </button>
-          </div>
-     
+          </div>  
     </Wrapper>
   )
 }
 
 const Wrapper = styled.section`
   min-height: 100vh;
-  display: grid;
- 
+  display: flex;
+  
   place-items: center;
 }
 
