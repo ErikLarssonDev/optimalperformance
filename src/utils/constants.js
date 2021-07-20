@@ -70,47 +70,51 @@ export const services = [
 ]
 
 export const testimonials = [
+
   {
     id: 1,
-   
-    name: 'Hanna Wikingsson',
-    text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
-  },
-  {
-    id: 2,
     img: amandaImg,
     name: 'Amanda Fors',
     text:
       '"Erik is an extremely knowledgeable coach with plenty of his own experience in the sport at an elite level. He takes the time to analyze and set up a program tailored to your specific needs. At the same time, he always takes into account your wishes to ensure that the approach is not only developing, but also fun on the way to the common goal. The programming is advanced and takes into account external factors for training and everyday life to work together. With Erik as a coach, anyone can go from beginner to athlete at the elite level as long as you have the will."',
   },
   {
-    id: 3,
+    id: 2,
     
     name: 'Viktor Larsson',
     text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      '"With Erik as a coach, you will already within a couple of months notice a big difference in your performance, and that the development continues upwards without stagnating. In my opinion, it is at least one of the absolute best and safest ways to increase both strength and improve technique for the long term."',
   },
   {
-    id: 4,
+    id: 3,
     img: filipImg,
     name: 'Filip Flink',
     text:
     '"Erik is very meticulous and precise in his coaching, from training planning to the everyday. He listens and can discuss one thing and another to optimize and individualize the training approach. If you are looking for someone who has 100% control of all possible training and coaching variables, Erik is the right person you are looking for! ”'
   },
   {
-    id: 5,
-    
+    id: 4,
     name: 'Astrid Edvardsson',
     text:
       '"Erik is someone who cares about you as an athlete. enjoys coaching and seeing progress! Adapts the schedule well to how you want it, both in the long and short term!!"',
   },
   {
-    id: 6,
-    
+    id: 5,
     name: 'Tom Lingestad',
     text:
       '"As a coach Erik is very responsive and addresses the needs of the individual."',
+  },
+  {
+    id: 6,
+    name: 'Markus Renström',
+    text:
+      '"I always recommend Erik as a coach, he is competent and knowledgeable and does it at a fair price."',
+  },
+  {
+    id: 7,
+    name: 'Emil Johansson Findahl',
+    text:
+      '"Erik is very good and is very comfortable to have as a coach. He writes good programs and is very open to discussing ideas. He is also easily accessible, gives quick response, and is very nice."',
   },
 ]
 
@@ -127,7 +131,7 @@ export const Programs = [
     id: 2,
     name: 'Individualized Program',
     text: 'Individualized programs are built based on an extensive anlysis of your goals, needs and training background to create the best program for YOU. We start by analyzing your technique and needs before writing the program, we will also have a check-in when the program is finished to evaluate the program.',
-    price: '49 SEK/Week',
+    price: '(49 SEK, 6 USD, 5 EUR)/Week',
     url: 'https://forms.gle/XE5NFZNg9GNiZBFN6',
     image: IndividualizedProgramImg,
   },

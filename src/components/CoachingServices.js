@@ -27,22 +27,25 @@ const CoachingServices = () => {
               This option is best suited for competative powerlifters who want the optimal training program.
 </p>
             <p>
-              Price: 699 SEK/Month (599 SEK/Month for students)
+              <b>Price: (699 SEK, 79 USD, 69 EUR)/Month (599 SEK/Month for students)</b>
+            </p>
+            <p>
+              <b>Student price: (599 SEK, 69 USD, 59 EUR)/Month</b>
             </p>
             <ul>
               <li>
                 <p>
-                  <RiCheckboxCircleLine /> Fully individualized program
+                  <RiCheckboxCircleLine /> <b>Fully individualized program</b>
               </p>
               </li>
               <li>
                 <p>
-                  <RiCheckboxCircleLine /> Weekly/monthly program updates
+                  <RiCheckboxCircleLine /> <b>Weekly/monthly program updates</b>
               </p>
               </li>
               <li>
                 <p>
-                  <RiCheckboxCircleLine /> Weekly feedback and support
+                  <RiCheckboxCircleLine /> <b>Weekly feedback and support</b>
               </p>
               </li>
             </ul>
