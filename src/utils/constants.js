@@ -116,6 +116,18 @@ export const testimonials = [
     text:
       '"Erik is very good and is very comfortable to have as a coach. He writes good programs and is very open to discussing ideas. He is also easily accessible, gives quick response, and is very nice."',
   },
+  {
+    id: 8,
+    name: 'Greta Jonsson',
+    text:
+      '"Erik has helped me a lot with my technique and made me increase in all lifts. He comes up with his own ideas as he listens to my wishes!"',
+  },
+  {
+    id: 9,
+    name: 'Klara Söderberg',
+    text:
+      '"Erik is serious and thorough as a coach, it is noticeable that he prioritizes his work with training programs, feedback, technical work, and more. He is motivating genuinely and very easy to get along with. I really recommend Erik if you are interested in getting help with your training!"',
+  },
 ]
 
 export const Programs = [
