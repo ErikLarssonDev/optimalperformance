@@ -134,7 +134,7 @@ export const Programs = [
   {
     id: 1,
     name: '6 Week Beginner Program',
-    text: 'This is a 6-week training approach designed for beginner lifters to peak effectively into actual competitions (or a mock meet) with high performance. The first weeks represent higher overall work and lower overall loading, designed to build training adaptions and muscle hypertrophy. We’ll do a step taper on Week 5, shedding some fatigue and preparing for the next phase. Finally, on Week 6 you have the option to either deload and run the program again or do a peak to test your 1RM.',
+    text: 'This is a 6-week powerlifting program designed for beginner lifters to peak effectively into actual competitions (or a mock meet) with high performance. The first weeks represent higher overall work and lower overall loading, designed to build training adaptions and muscle hypertrophy. We’ll do a step taper on Week 5, shedding some fatigue and preparing for the next phase. Finally, on Week 6 you have the option to either deload and run the program again or do a peak to test your 1RM.',
     price: 'Free',
     url: 'https://docs.google.com/spreadsheets/d/19Qx8Qh4RJ3MD_Ee8R0Sj7s22GhxrSQAvUE-yxaZMA8o/edit?usp=sharing',
     image: BeginnerProgramImg,
@@ -142,7 +142,7 @@ export const Programs = [
   {
     id: 2,
     name: 'Individualized Program',
-    text: 'Individualized programs are built based on an extensive anlysis of your goals, needs and training background to create the best program for YOU. We start by analyzing your technique and needs before writing the program, we will also have a check-in when the program is finished to evaluate the program.',
+    text: 'Individualized powerlifting programs are built based on an extensive anlysis of your goals, needs and training background to create the best program for YOU. We start by analyzing your technique and needs before writing the program, we will also have a check-in when the program is finished to evaluate the program.',
     price: '(49 SEK, 6 USD, 5 EUR)/Week',
     url: 'https://forms.gle/XE5NFZNg9GNiZBFN6',
     image: IndividualizedProgramImg,
