@@ -58,11 +58,10 @@ const ContactPage = () => {
                             <label>Your Message <span class="required">*</span></label>
                             <textarea name="message" id="field5" class="field-long field-textarea"></textarea>
                         </li>
-                        <Link to='/contactsubmit'>
+                        
                         <li>
                             <input className='btn' type="submit" value="Send" />
                         </li>
-                        </Link>
                     </ul>
                     
                 </form>
