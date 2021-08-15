@@ -64,8 +64,6 @@ const Wrapper = styled.section`
   place-items: center;
 }
 
-
-
 p {
   margin-bottom: 0;
   line-height: 1.8;

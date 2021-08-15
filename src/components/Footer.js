@@ -3,19 +3,22 @@ import styled from 'styled-components'
 const Footer = () => {
   return (
     
-    <Wrapper>       
+    <Wrapper>  
+      <div>
       <h5>
         &copy; {new Date().getFullYear()}
         <span> Optimal Performance Coaching Sweden AB</span>
       </h5>
       <h5>All rights reserved</h5>
+      <div><p>By continuing to browse, you agree to the storing of cookies on your device to enhance your site expeerience and for analytical purposes. To learn more about how we use the cookies, please contact us.</p></div>
+      </div>
     </Wrapper>
     
   )
 }
 
 const Wrapper = styled.footer`
-  height: 5rem;
+  height: 10rem;
   position: relative;
   display: flex;
   margin-bottom: 0px;
